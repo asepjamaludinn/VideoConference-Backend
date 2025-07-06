@@ -1,0 +1,50 @@
+{"timestamp":"2025-07-06T07:32:21.265Z","level":"INFO","message":"Pembersih session berjalan","meta":{}}
+{"timestamp":"2025-07-06T07:32:21.267Z","level":"INFO","message":"Pembersih session berjalan","meta":{}}
+{"timestamp":"2025-07-06T07:32:21.730Z","level":"INFO","message":"Pembersih session berjalan","meta":{}}
+{"timestamp":"2025-07-06T07:32:21.733Z","level":"INFO","message":"Pembersih session berjalan","meta":{}}
+{"timestamp":"2025-07-06T07:33:44.688Z","level":"INFO","message":"Pembersih session berjalan","meta":{}}
+{"timestamp":"2025-07-06T07:33:44.691Z","level":"INFO","message":"Pembersih session berjalan","meta":{}}
+{"timestamp":"2025-07-06T07:41:38.379Z","level":"INFO","message":"Session dibuat","meta":{"sessionId":"219da162-d40b-409d-aebe-4351e84fc6c2","hostId":"user123","sessionName":"Tes Meeting 1"}}
+{"timestamp":"2025-07-06T07:54:36.837Z","level":"INFO","message":"User terhubung","meta":{"userId":"user123","name":"Alice"}}
+{"timestamp":"2025-07-06T07:58:44.710Z","level":"INFO","message":"Session diakhiri","meta":{"sessionId":"219da162-d40b-409d-aebe-4351e84fc6c2","reason":"idle","duration":1026332,"totalParticipants":0,"peakParticipants":0}}
+{"timestamp":"2025-07-06T07:58:44.710Z","level":"INFO","message":"Pembersihan selesai","meta":{"cleanedSessions":1}}
+{"timestamp":"2025-07-06T07:58:44.711Z","level":"INFO","message":"Session diakhiri","meta":{"sessionId":"219da162-d40b-409d-aebe-4351e84fc6c2","reason":"idle","duration":1026333,"totalParticipants":0,"peakParticipants":0}}
+{"timestamp":"2025-07-06T07:58:44.712Z","level":"INFO","message":"Pembersihan selesai","meta":{"cleanedSessions":1}}
+{"timestamp":"2025-07-06T08:00:54.109Z","level":"INFO","message":"Session dibuat","meta":{"sessionId":"1faee89b-b00d-43f4-b669-69005a5ff545","hostId":"user123","sessionName":"Tes Meeting 1"}}
+{"timestamp":"2025-07-06T15:13:29.905Z","level":"INFO","message":"Pembersih session berjalan","meta":{}}
+{"timestamp":"2025-07-06T15:13:29.908Z","level":"INFO","message":"Pembersih session berjalan","meta":{}}
+{"timestamp":"2025-07-06T15:15:09.925Z","level":"INFO","message":"Pembersih session berjalan","meta":{}}
+{"timestamp":"2025-07-06T15:15:09.928Z","level":"INFO","message":"Pembersih session berjalan","meta":{}}
+{"timestamp":"2025-07-06T15:16:00.851Z","level":"INFO","message":"Session dibuat","meta":{"sessionId":"ad0810d9-809e-43ce-8e98-8bc103208e73","hostId":"ujang","sessionName":"Tes Meeting 2"}}
+{"timestamp":"2025-07-06T15:21:00.440Z","level":"INFO","message":"User terhubung","meta":{"userId":"ujang123","name":"ujang"}}
+{"timestamp":"2025-07-06T15:21:59.674Z","level":"INFO","message":"User bergabung ke session","meta":{"sessionId":"ad0810d9-809e-43ce-8e98-8bc103208e73","userId":"ujang123","participantCount":1}}
+{"timestamp":"2025-07-06T15:23:41.503Z","level":"INFO","message":"Session diakhiri","meta":{"sessionId":"ad0810d9-809e-43ce-8e98-8bc103208e73","reason":"empty","duration":460653,"totalParticipants":1,"peakParticipants":1}}
+{"timestamp":"2025-07-06T15:23:41.505Z","level":"INFO","message":"User keluar dari session","meta":{"sessionId":"ad0810d9-809e-43ce-8e98-8bc103208e73","userId":"ujang123","remainingParticipants":0}}
+{"timestamp":"2025-07-06T15:31:10.076Z","level":"INFO","message":"Pembersih session berjalan","meta":{}}
+{"timestamp":"2025-07-06T15:31:10.079Z","level":"INFO","message":"Pembersih session berjalan","meta":{}}
+{"timestamp":"2025-07-06T15:31:15.153Z","level":"INFO","message":"User terhubung","meta":{"userId":"ujang123","name":"ujang"}}
+{"timestamp":"2025-07-06T15:35:30.620Z","level":"INFO","message":"Session dibuat","meta":{"sessionId":"08c44097-4c23-46a6-86c6-b7e119120488","hostId":"asep","sessionName":"Tes Meeting 3"}}
+{"timestamp":"2025-07-06T15:38:54.853Z","level":"INFO","message":"User bergabung ke session","meta":{"sessionId":"08c44097-4c23-46a6-86c6-b7e119120488","userId":"ujang123","participantCount":1}}
+{"timestamp":"2025-07-06T15:47:47.253Z","level":"INFO","message":"User terhubung","meta":{"userId":"asep","name":"asep"}}
+{"timestamp":"2025-07-06T15:53:07.535Z","level":"INFO","message":"User bergabung ke session","meta":{"sessionId":"08c44097-4c23-46a6-86c6-b7e119120488","userId":"asep","participantCount":2}}
+{"timestamp":"2025-07-06T15:58:36.574Z","level":"INFO","message":"Participant ditendang","meta":{"sessionId":"08c44097-4c23-46a6-86c6-b7e119120488","hostId":"asep","targetUserId":"ujang123"}}
+{"timestamp":"2025-07-06T16:12:22.707Z","level":"INFO","message":"Pembersih session berjalan","meta":{}}
+{"timestamp":"2025-07-06T16:12:22.710Z","level":"INFO","message":"Pembersih session berjalan","meta":{}}
+{"timestamp":"2025-07-06T16:12:22.744Z","level":"INFO","message":"User terhubung","meta":{"userId":"ujang123","name":"ujang"}}
+{"timestamp":"2025-07-06T16:12:22.747Z","level":"INFO","message":"User terhubung","meta":{"userId":"asep","name":"asep"}}
+{"timestamp":"2025-07-06T16:12:37.444Z","level":"INFO","message":"User terputus","meta":{"userId":"asep","name":"asep"}}
+{"timestamp":"2025-07-06T16:12:37.446Z","level":"INFO","message":"Session diakhiri","meta":{"sessionId":"08c44097-4c23-46a6-86c6-b7e119120488","reason":"empty","duration":2226826,"totalParticipants":2,"peakParticipants":2}}
+{"timestamp":"2025-07-06T16:12:37.447Z","level":"INFO","message":"User keluar dari session","meta":{"sessionId":"08c44097-4c23-46a6-86c6-b7e119120488","userId":"asep","remainingParticipants":0}}
+{"timestamp":"2025-07-06T16:12:38.118Z","level":"INFO","message":"User terputus","meta":{"userId":"ujang123","name":"ujang"}}
+{"timestamp":"2025-07-06T16:14:22.160Z","level":"INFO","message":"Session dibuat","meta":{"sessionId":"9e8f30f2-bc89-4982-b99b-0df868e6c37b","hostId":"test33","sessionName":"Tes Meeting bahas perang dunia"}}
+{"timestamp":"2025-07-06T16:16:22.137Z","level":"INFO","message":"User terhubung","meta":{"userId":"test33","name":"test33"}}
+{"timestamp":"2025-07-06T16:16:33.172Z","level":"INFO","message":"User terhubung","meta":{"userId":"ujang123","name":"ujang"}}
+{"timestamp":"2025-07-06T16:18:07.696Z","level":"INFO","message":"User bergabung ke session","meta":{"sessionId":"9e8f30f2-bc89-4982-b99b-0df868e6c37b","userId":"test33","participantCount":1}}
+{"timestamp":"2025-07-06T16:19:54.213Z","level":"INFO","message":"User terputus","meta":{"userId":"ujang123","name":"ujang"}}
+{"timestamp":"2025-07-06T16:23:08.645Z","level":"INFO","message":"User terhubung","meta":{"userId":"percobaan","name":"percobaan"}}
+{"timestamp":"2025-07-06T16:24:48.802Z","level":"INFO","message":"User terputus","meta":{"userId":"percobaan","name":"percobaan"}}
+{"timestamp":"2025-07-06T16:26:11.439Z","level":"INFO","message":"User terhubung","meta":{"userId":"percobaan","name":"percobaan"}}
+{"timestamp":"2025-07-06T16:28:14.905Z","level":"INFO","message":"User bergabung ke session","meta":{"sessionId":"9e8f30f2-bc89-4982-b99b-0df868e6c37b","userId":"percobaan","participantCount":2}}
+{"timestamp":"2025-07-06T16:31:43.856Z","level":"INFO","message":"Participant ditendang","meta":{"sessionId":"9e8f30f2-bc89-4982-b99b-0df868e6c37b","hostId":"test33","targetUserId":"percobaan"}}
+{"timestamp":"2025-07-06T16:32:50.647Z","level":"INFO","message":"Session diakhiri","meta":{"sessionId":"9e8f30f2-bc89-4982-b99b-0df868e6c37b","reason":"manual","duration":1108487,"totalParticipants":2,"peakParticipants":2}}
+{"timestamp":"2025-07-06T16:32:50.649Z","level":"INFO","message":"Sesi diakhiri manual oleh host","meta":{"sessionId":"9e8f30f2-bc89-4982-b99b-0df868e6c37b","hostId":"test33"}}
